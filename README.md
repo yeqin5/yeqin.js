@@ -1,1 +1,3 @@
-# yeqin.js
+function test(){
+
+}
